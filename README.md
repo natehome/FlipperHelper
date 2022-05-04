@@ -25,12 +25,14 @@
 -->
  
 ## Firmwares & Tweaks
+- [`COMPARE` Firmware Differences](https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.updated_at&url=https%3A%2F%2Fapi.github.com%2Fgists%2Fedb8f3a0ab77e563898d1c55f489bf96&cacheSeconds=10800)
 - [`Official Release` Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware) ![version](https://img.shields.io/github/v/release/flipperdevices/flipperzero-firmware?sort=date&cacheSeconds=10800) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fflipperdevices%2Fflipperzero-firmware%2Fcommits%2Frelease&cacheSeconds=10800)
 - [`Official Release Candidate` Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware/tree/release-candidate) ![version](https://img.shields.io/github/v/release/flipperdevices/flipperzero-firmware?display_name=tag&include_prereleases&cacheSeconds=10800)  ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fflipperdevices%2Fflipperzero-firmware%2Fcommits%2Frelease-candidate&cacheSeconds=10800)
 - [`Official DEV` Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware) ![version](https://img.shields.io/github/v/release/flipperdevices/flipperzero-firmware?display_name=tag&include_prereleases&cacheSeconds=10800)  ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fflipperdevices%2Fflipperzero-firmware%2Fcommits%2Fdev&cacheSeconds=10800)
 - [`Unleashed` Active firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware) ![version](https://img.shields.io/github/v/release/Eng1n33r/flipperzero-firmware?display_name=tag&include_prereleases&cacheSeconds=10800) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FEng1n33r%2Fflipperzero-firmware%2Fcommits%2Fdev&cacheSeconds=10800)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev) ![version](https://img.shields.io/github/v/release/MuddledBox/flipperzero-firmware?display_name=tag&include_prereleases&cacheSeconds=10800) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMuddledBox%2Fflipperzero-firmware%2Fcommits%2Fdev&cacheSeconds=10800) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit%20MuddledDev&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMuddledBox%2Fflipperzero-firmware%2Fcommits%2Fmuddled_dev&cacheSeconds=10800)
 - [`MAGSpoof` Use the Flipper Zero as a MAGSpoof device](https://github.com/dunaevai135/flipperzero-firmware/tree/feature/nomodule) ![version](https://img.shields.io/github/v/release/dunaevai135/flipperzero-firmware?display_name=tag&include_prereleases&cacheSeconds=10800) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdunaevai135%2Fflipperzero-firmware%2Fcommits%2Ffeature%2Fnomodule&cacheSeconds=10800)
+- [`Wetox hackathon` A couple of (outdated) hackathon submissions.](https://github.com/wetox-team/flipperzero-firmware) ![version](https://img.shields.io/github/v/release/wetox-team/flipperzero-firmware?display_name=tag&include_prereleases&cacheSeconds=10800) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fwetox-team%2Fflipperzero-firmware%2Fcommits%2Fdev&cacheSeconds=10800)
 
 ## Databases & Dumps
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/Lucaslhm/Flipper-IRDB) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FLucaslhm%2FFlipper-IRDB%2Fcommits%2Fmain&cacheSeconds=10800)
@@ -70,9 +72,10 @@
 
 
 ## Notes & References
-- [`Flipper Zero SW&HW keynote` Official hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`Flipper Zero GPIO Pinout` Official GPIO pinouts.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
 - [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
+- [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.updated_at&url=https%3A%2F%2Fapi.github.com%2Fgists%2Fedb8f3a0ab77e563898d1c55f489bf96&cacheSeconds=10800)
+- [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 
 <!-- DO NOT MODIFY BELOW -->
 <!--
