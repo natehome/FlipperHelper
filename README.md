@@ -44,26 +44,26 @@
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fglitchcore%2Ffloopper-bloopper%2Fcommits%2Fmaster)
 
 ## Modules & Cases
-- [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
-- [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
-- [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+- [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fs0ko1ex%2FFlipperZero-Hardware%2Fcommits%2Fmaster)
+- [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMuddledBox%2FFlipperZeroCases%2Fcommits%2Fmain)
+- [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flomalkin%2Fflipperzero-protoboards-kicad%2Fcommits%2Fmaster)
 
 ## Off-device & Debugging
 ### Sub-GHz
-- [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
-- [`.sub to OOK` Python script to clean up and recover an OOK bitstream from a Flipper RAW .sub file](https://gist.github.com/jinschoi/40a470e432c6ac244be8159145454b5c)
+- [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.updated_at&url=https%3A%2F%2Fapi.github.com%2Fgists%2Ff39dbd82e4e3d99d32ab6a9b8dfc2f55)
+- [`.sub to OOK` Python script to clean up and recover an OOK bitstream from a Flipper RAW .sub file](https://gist.github.com/jinschoi/40a470e432c6ac244be8159145454b5c) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.updated_at&url=https%3A%2F%2Fapi.github.com%2Fgists%2F40a470e432c6ac244be8159145454b5c)
 
 ### IR
-- [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir)
+- [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSpexivus%2Fcsv2ir%2Fcommits%2Fmain)
 
 ### Debugging
-- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
-- [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
-- [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
-- [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
+- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhedger%2Fflipperzero-sesproject%2Fcommits%2Fmaster)
+- [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FDroomOne%2FFlipperScripts%2Fcommits%2Fmain)
+- [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.updated_at&url=https%3A%2F%2Fapi.github.com%2Fgists%2F50c35c46f3ecada7a18c9e5cc203a3f8)
+- [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flomalkin%2Fflipperzero-cli-tools%2Fcommits%2Fmaster)
 
 ### Amiibo
-- [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/)
+- [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FLucaslhm%2FAmiiboFlipperConverter%2Fcommits%2Fmain)
 
 
 ## Notes & References
