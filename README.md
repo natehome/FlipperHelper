@@ -69,6 +69,7 @@
 
 ### Amiibo
 - [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FLucaslhm%2FAmiiboFlipperConverter%2Fcommits%2Fmain&cacheSeconds=10800)
+- [`FlipMiibo` Convert BIN to Flipper Zero compatible NFC format](https://github.com/0xz00n/FlipMiibo)
 
 
 ## Notes & References
