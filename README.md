@@ -47,6 +47,7 @@
 ## Applications & Plugins
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/DroomOne/Flipper-Plugin-Tutorial) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FDroomOne%2FFlipper-Plugin-Tutorial%2Fcommits%2Fmain&cacheSeconds=10800)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fglitchcore%2Ffloopper-bloopper%2Fcommits%2Fmaster&cacheSeconds=10800)
+- [`CHIP 8 Emulator` for Flipper Zero](https://github.com/dwdraugr/flipper-chip)
 
 ## Modules & Cases
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware) ![lastcommit](https://img.shields.io/badge/dynamic/json?label=last%20commit&query=%24.commit.author.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fs0ko1ex%2FFlipperZero-Hardware%2Fcommits%2Fmaster&cacheSeconds=10800)
